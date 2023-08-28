@@ -1,1 +1,3 @@
-My first readme
+README
+
+Repository for pre course from ALx 
